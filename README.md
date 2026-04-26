@@ -2,7 +2,7 @@
 
 > A learning companion for senior professionals entering AI — built as a side project for the **Senior Product Manager, Education Labs** role at Anthropic.
 
-[**→ Open the portfolio**](./index.html) · [Apply for the role](https://job-boards.greenhouse.io/anthropic/jobs/5183006008)
+[**→ Open the portfolio**](./index.html) · 
 
 ---
 
